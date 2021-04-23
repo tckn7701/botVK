@@ -1,0 +1,1 @@
+worker: python Ауф питон.py $PORT
